@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lambenews.github.io/viral/sitemap.xml
